@@ -10,14 +10,14 @@ body{
 }
 
 .app{
-  background-image: url('./image/winter1.jpg');
+  background-image: url('./image/winter.jpg');
   background-size: cover;
   background-position: bottom;
   transition: all 1s ease-out;
 }
 
 .app.warm{
-  background-image: url('./image/Summer1.jpg')
+  background-image: url('./image/Summer.jpg')
 }
 
 main{
